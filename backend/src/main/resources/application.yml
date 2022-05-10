@@ -1,7 +1,7 @@
 spring:
   datasource:
-    url:
-    username:
+    url: jdbc:mysql://ledx-1.c0puka4oucjv.ap-northeast-2.rds.amazonaws.com:3306/teamprj
+    username: fiercegear
     password:
     driver-class-name: com.mysql.cj.jdbc.Driver
   servlet:
